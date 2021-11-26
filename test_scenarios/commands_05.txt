@@ -1,0 +1,6 @@
+make_store,kroger,33000
+display_stores
+sell_item,kroger,pot_roast,5
+sell_item,kroger,cheesecake,4
+display_items,kroger
+stop
